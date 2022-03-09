@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kenthimselff
 - 👀 I’m interested in HTML, CSS, JavaScript and Python
-- 🌱 I’m currently learning JavaScript and Python
+- 🌱 I’m currently learning JavaScript Python MySQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @KentHimself Twitter
 
